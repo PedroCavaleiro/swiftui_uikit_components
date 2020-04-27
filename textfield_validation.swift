@@ -131,7 +131,7 @@ struct ContentView: View {
     var body: some View {
         TextFieldValidation(text: self.$viewModel.value, 
                             placeholder: "Enter some value...", 
-                            validators: [ { (value: String) in if value.isEmpty { return (false, "This can't be empty") } else { (true, "") }  } ])
+                            validators: [ self.empty ])
     }
     
     func empty(_ value: String) -> (Bool, String) {
