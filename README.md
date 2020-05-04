@@ -9,6 +9,7 @@ This repo contains multiple imports from the UIKit to the SwiftUI and a few usef
   * [ImageViewer_Instagram](https://github.com/PedroCavaleiro/swiftui_uikit_components/blob/master/ImageViewer_Instagram.swift)
 * SwiftUI Implementations
   * [TextFieldValidator](https://github.com/PedroCavaleiro/swiftui_uikit_components/blob/master/TextFieldValidation.swift)
+  * [ViewExtensions](https://github.com/PedroCavaleiro/swiftui_uikit_components/blob/master/ViewExtensions.swift)
 
 
 ## Contribution
