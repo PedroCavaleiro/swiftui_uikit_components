@@ -1,5 +1,5 @@
 # SwiftUI UIKit Components
-This repo contains multiple imports from the UIKit to the SwiftUI
+This repo contains multiple imports from the UIKit to the SwiftUI and a few usefull SwiftUI implementations
 
 ## Table of Contents
 
