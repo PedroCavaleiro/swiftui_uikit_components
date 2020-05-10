@@ -10,7 +10,9 @@ This repo contains multiple imports from the UIKit to the SwiftUI and a few usef
 * SwiftUI Implementations
   * [TextFieldValidator](https://github.com/PedroCavaleiro/swiftui_uikit_components/blob/master/TextFieldValidation.swift)
   * [ViewExtensions](https://github.com/PedroCavaleiro/swiftui_uikit_components/blob/master/ViewExtensions.swift)
-
+* Swift Implementations
+  * [Swift Extensions](https://github.com/PedroCavaleiro/swiftui_uikit_components/blob/master/Extensions.swift)
+    * Array Extension
 
 ## Contribution
 
