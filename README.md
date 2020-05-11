@@ -13,7 +13,10 @@ This repo contains multiple imports from the UIKit to the SwiftUI and a few usef
 * Swift Implementations
   * [Swift Extensions](https://github.com/PedroCavaleiro/swiftui_uikit_components/blob/master/Extensions.swift)
     * Array Extension
-    * Binding Extensions (didSet, willSet)
+      * chunked
+    * Binding Extensions
+      * didSet
+      * willSet
 
 ## Contribution
 
