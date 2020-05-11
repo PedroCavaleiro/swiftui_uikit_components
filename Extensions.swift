@@ -26,3 +26,29 @@ extension Array {
         return chunkedArray
     }
 }
+
+extension Binding {
+    func didSet(execute: @escaping (Value) ->Void) -> Binding {
+        return Binding(
+            get: {
+                return self.wrappedValue
+            },
+            set: {
+                let snapshot = self.wrappedValue
+                self.wrappedValue = $0
+                execute(snapshot)
+            }
+        )
+    }
+    func willSet(execute: @escaping (Value) ->Void) -> Binding {
+        return Binding(
+            get: {
+                return self.wrappedValue
+            },
+            set: {
+                execute($0)
+                self.wrappedValue = $0
+            }
+        )
+    }
+}
