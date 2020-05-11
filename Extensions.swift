@@ -6,7 +6,7 @@
 //
 //  This file contains some extensions that I find usefull
 //  these extensions are not only for SwiftUI
-//  This extension was not developed by me but I applied 
+//  The chunked extension was not developed by me but I applied 
 //  a fix that now allows to choose your own size
 //
 
