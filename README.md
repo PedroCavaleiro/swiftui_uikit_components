@@ -7,6 +7,7 @@ This repo contains multiple imports from the UIKit to the SwiftUI and a few usef
   * [ImagePicker](https://github.com/PedroCavaleiro/swiftui_uikit_components/blob/master/ImagePicker.swift)
   * [SafariView](https://github.com/PedroCavaleiro/swiftui_uikit_components/blob/master/SafariView.swift)
   * [ImageViewer_Instagram](https://github.com/PedroCavaleiro/swiftui_uikit_components/blob/master/ImageViewer_Instagram.swift)
+  * [TextAlert](https://github.com/PedroCavaleiro/swiftui_uikit_components/blob/master/TextAlert.swift)
 * SwiftUI Implementations
   * [TextFieldValidator](https://github.com/PedroCavaleiro/swiftui_uikit_components/blob/master/TextFieldValidation.swift)
   * [ViewExtensions](https://github.com/PedroCavaleiro/swiftui_uikit_components/blob/master/ViewExtensions.swift)
